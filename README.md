@@ -4,6 +4,8 @@
 
 Simple Text Search is a small PHP application that allows you to search for keywords within multiple `scripts_improved.txt` text files located in the subfolders of the current directory. It is designed for personal use, and as it exposes text files in the current directory, it is not recommended for use in a publicly accessible environment.
 
+![トップページ](image.png "トップページ")
+
 ## Installation
 
 1. Clone this repository or download the zip file and extract it into your desired folder.
